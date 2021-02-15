@@ -3,7 +3,9 @@
 function happyHolidays() {
   return "Happy holidays!";
 }
-var days = ''
+var days = '258 days';
+var holiday = 'Halloween';
+
 function happyHolidaysTo(name){
   return `Happy holidays, ${name}!`;
 }
